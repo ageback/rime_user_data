@@ -1,0 +1,30 @@
+#customization:
+#  distribution_code_name: Weasel
+#  distribution_version: 0.9.30
+#  generator: "Weasel::UIStyleSettings"
+#  modified_time: "Fri Dec 02 18:56:00 2016"
+#  rime_version: 1.1.2
+patch:
+  "translator/enable_sentence": true                # 开关语句模式
+  "translator/enable_user_dict": true               # 是否开启用户词典（用户词典记录动态字词频，用户词）
+  "switches/@0/reset": 1               # 0 启动默认中文输入， 1 启动默认英文输入
+  engine/translators/+:
+    - lua_translator@time_translator      # date - 当前日期， time - 当前时间， now - 当前日期+时间
+  "speller/max_code_length": 4
+  "speller/auto_select": true
+  "key_binder/bindings":
+    - { when: composing, accept: Return, send: Escape }
+    - { when: has_menu, accept: semicolon, send: 2 }
+    - { when: has_menu, accept: apostrophe, send: 3 }
+#  "style/border_width": 5
+#  "style/color_scheme": dark_temple
+#  "style/corner_radius": 2
+#  "style/display_tray_icon": true
+#  "style/font_face": "SimSun"
+#  "style/font_point": 24
+#  "style/horizontal": true
+#  "style/inline_preedit": true
+__patch:
+# Rx: emoji:customize:schema=wubi86_jidian {
+  - patch/+:
+      __include: emoji_suggestion:/patch
