@@ -2,112 +2,26 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Sat Nov  9 13:07:21 2019"
+  modified_time: "Thu Nov 14 08:02:13 2019"
   rime_version: 1.5.3
 patch:
   ascii_composer:
     good_old_caps_lock: true
-    switch_key:
-      {
-        Caps_Lock: commit_code,
-        Control_L: noop,
-        Control_R: noop,
-        Shift_L: commit_code,
-        Shift_R: commit_code,
-      }
+    switch_key: {Caps_Lock: commit_code, Control_L: noop, Control_R: noop, Shift_L: commit_code, Shift_R: commit_code}
   key_binder:
-    bindings:
-      [
-        { accept: semicolon, send: 2, when: has_menu },
-        { accept: apostrophe, send: 3, when: has_menu },
-        { accept: bracketleft, send: Page_Up, when: paging },
-        { accept: bracketright, send: Page_Down, when: has_menu },
-      ]
+    bindings: [{accept: semicolon, send: 2, when: has_menu}, {accept: apostrophe, send: 3, when: has_menu}, {accept: bracketleft, send: Page_Up, when: paging}, {accept: bracketright, send: Page_Down, when: has_menu}]
   menu:
     page_size: 9
   punctuator:
-    full_shape:
-      {
-        " ": { commit: "　" },
-        "!": { commit: "！" },
-        '"': { pair: ["“", "”"] },
-        "#": ["＃", "⌘"],
-        "$": "￥",
-        "%": "％",
-        "&": "＆",
-        "'": { pair: ["‘", "’"] },
-        "(": "（",
-        ")": "）",
-        "*": ["＊", "・", "×"],
-        "+": "＋",
-        ",": { commit: "，" },
-        "-": "－",
-        .: { commit: "。" },
-        "/": ["／", "÷"],
-        ":": { commit: "：" },
-        ";": { commit: "；" },
-        "<": ["《", "〈", "«", "‹"],
-        "=": "＝",
-        ">": ["》", "〉", "»", "›"],
-        "?": { commit: "？" },
-        "@": "＠",
-        "[": ["「", "【", "〔", "［"],
-        "\\": ["、", "＼"],
-        "]": ["」", "】", "〕", "］"],
-        "^": { commit: "……" },
-        _: "——",
-        "`": "｀",
-        "{": ["『", "〖", "｛"],
-        "|": ["·", "｜", "§", "¦"],
-        "}": ["』", "〗", "｝"],
-        "~": "～",
-      }
-    half_shape:
-      {
-        "!": { commit: "！" },
-        '"': { pair: ["“", "”"] },
-        "#": "#",
-        "$": "￥",
-        "%": ["%", "％", "°", "℃"],
-        "&": "&",
-        "'": { pair: ["‘", "’"] },
-        "(": "（",
-        ")": "）",
-        "*": ["*", "・", "×"],
-        "+": "+",
-        ",": { commit: "，" },
-        "-": "-",
-        .: { commit: "。" },
-        #"/": { commit: "、" },
-        ":": { commit: "：" },
-        ";": { commit: "；" },
-        "<": { commit: "《" },
-        "=": "=",
-        ">": { commit: "》" },
-        "?": { commit: "？" },
-        "@": "@",
-        "[": { commit: "【" },
-        "\\": { commit: "、" },
-        "]": { commit: "】" },
-        "^": { commit: "……" },
-        _: "——",
-        "`": "`",
-        "{": "『",
-        "|": "|",
-        "}": "』",
-        "~": "~",
-      }
+    full_shape: {" ": {commit: "　"}, "!": {commit: "！"}, "\"": {pair: ["“", "”"]}, "#": ["＃", "⌘"], "$": "￥", "%": "％", "&": "＆", "'": {pair: ["‘", "’"]}, "(": "（", ")": "）", "*": ["＊", "・", "×"], "+": "＋", ",": {commit: "，"}, "-": "－", .: {commit: "。"}, "/": ["／", "÷"], ":": {commit: "："}, ";": {commit: "；"}, "<": ["《", "〈", "«", "‹"], "=": "＝", ">": ["》", "〉", "»", "›"], "?": {commit: "？"}, "@": "＠", "[": ["「", "【", "〔", "［"], "\\": ["、", "＼"], "]": ["」", "】", "〕", "］"], "^": {commit: "……"}, _: "——", "`": "｀", "{": ["『", "〖", "｛"], "|": ["·", "｜", "§", "¦"], "}": ["』", "〗", "｝"], "~": "～"}
+    half_shape: {"!": {commit: "！"}, "\"": {pair: ["“", "”"]}, "#": "#", "$": "￥", "%": ["%", "％", "°", "℃"], "&": "&", "'": {pair: ["‘", "’"]}, "(": "（", ")": "）", "*": ["*", "・", "×"], "+": "+", ",": {commit: "，"}, "-": "-", .: {commit: "。"}, ":": {commit: "："}, ";": {commit: "；"}, "<": {commit: "《"}, "=": "=", ">": {commit: "》"}, "?": {commit: "？"}, "@": "@", "[": {commit: "【"}, "\\": {commit: "、"}, "]": {commit: "】"}, "^": {commit: "……"}, _: "——", "`": "`", "{": "『", "|": "|", "}": "』", "~": "~"}
   recognizer:
-    patterns:
-      {
-        email: "^[-_.0-9A-Za-z]*@.*$",
-        uppercase: "[A-Z][-_+.'0-9A-Za-z]*$",
-        url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$",
-      }
+    patterns: {email: "^[-_.0-9A-Za-z]*@.*$", uppercase: "[A-Z][-_+.'0-9A-Za-z]*$", url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"}
   schema_list:
-    - { schema: wubi86_jidian }
-    - { schema: wubi_pinyin }
-    - { schema: luna_pinyin_simp }
+    - {schema: wubi86_jidian}
+    - {schema: wubi_pinyin}
+    - {schema: luna_pinyin_simp}
+    - {schema: wubi_trad}
   switcher:
     abbreviate_options: true
     caption: "【 输入法设置 】"

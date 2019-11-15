@@ -2,356 +2,862 @@
 #@/db_name	wubi86_jidian.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-#@/tick	825
+#@/tick	1116
 工	a	1
 工	aaaa	1
 工间	aauj	3
 其实	adpu	1
+基本	adsg	1
 其他	adwb	1
-区	aq	2
+落实	aipu	1
+划拨	ajrn	1
+草拟	ajrn	1
+功能	alce	4
+区	aq	4
 匹配	aqsg	1
 共产党	auip	1
-了	b	14
+了	b	19
 子	bb	1
 阻拦	beru	1
+陆	bfm	3
+耳机	bgsm	1
+孙	bi	2
+阳	bj	1
+出	bm	2
+出境	bmfu	1
 出来	bmgo	2
 联	bu	1
+联系	butx	1
 除了	bwbn	1
-又	ccc	1
+预算	cbth	2
+又	ccc	3
+参加	cdlk	1
 能	ce	4
-对	cf	1
+通用	ceet	1
+对	cf	10
 对应	cfyi	1
 马	cn	1
-在	d	4
+在	d	8
 码表	dcge	2
 大事	ddgk	1
-有钱	deqg	1
+大家	ddpe	1
+有钱	deqg	2
+压缩	dfxp	1
+压	dfy	1
 三	dg	11
 存放	dhyt	1
+有没有	dide	1
+耗材	disf	5
 百度	djya	1
+页面	dmdm	1
 耐克	dmdq	3
 耐	dmjf	1
 万达	dndp	3
 古已有之	dndp	1
 克	dq	1
+帮助	dteg	1
 太	dy	2
 太子	dybb	1
-有	e	3
+有	e	4
+服务	ebtl	2
+盈亏	ecfn	1
+月份	eeww	1
 且	eg	1
 肋	el	1
-用	et	13
-用户	etyn	4
+采购	esmq	1
+用	et	17
+服务器	etkk	2
+用钱	etqg	2
+用户	etyn	7
+及	ey	1
 及时	eyjf	1
 用户词	eyyn	3
 地址	fbfh	1
-动态	fcdy	1
+动态	fcdy	2
+支持	fcrf	1
+去掉	fcrh	1
 去	fcu	1
 需要	fdsv	1
+坛	ffc	1
+土地	fffb	1
 二	fg	1
 干	fggh	5
 直接	fhru	2
+走	fhu	1
+真	fhw	1
+未	fii	1
+示	fiu	1
+进	fj	1
+进行	fjtf	6
+喜欢	fkcq	2
+袁	fke	1
 场景	fnjy	1
 声	fnr	1
+专栏	fnsu	1
+卖	fnud	1
 过	fp	6
+无锡	fqqj	1
 才	ft	1
 都	ftjb	1
+增	fu	2
+规划	fwaj	1
 一	g	2
-开	ga	1
+开	ga	2
+形成	gadn	1
+形	gae	1
+开进	gafj	1
+武	gah	1
+刑	gajh	1
+开发	gant	1
 开启	gayn	1
-到	gc	1
-表单	geuj	1
+到	gc	2
+天	gd	1
+表	ge	1
+表单	geuj	2
+一直	ggfh	1
+一起	ggfh	1
 王	ggg	1
+一下	gggh	2
 下屯村	ggsf	2
 五笔	ggtt	8
 一遍	ggyn	1
 下	gh	3
+正式	ghaa	1
 下面	ghdm	1
 下载	ghfa	1
 下屯	ghgb	1
 正视	ghpy	1
+下午	ghtf	1
+政府	ghyw	1
+否	gik	1
 还	gip	3
 不知	gitd	1
 惠	gjhn	1
 理由	gjmh	1
+惠民	gjna	1
 更新	gjus	1
 事	gk	1
+整理	gkgj	3
+整合	gkwg	1
 现在	gmdh	1
+再	gmf	1
 曹婕	gmvg	1
+来	go	1
 来源	goid	3
-上	h	3
-不	i	10
+来信	gowy	2
+来访	goyy	2
+列	gq	1
+死	gqx	1
+上	h	4
+上面	hhdm	1
+上报	hhrb	1
+目录	hhvi	4
+不	i	14
+汇总	iauk	4
+渠道	iaut	3
 法律	iftv	2
 济南高新万达广场	ifyf	1
 济南市	ifym	2
 添加	iglk	2
-小	ih	1
+小	ih	2
 小区	ihaq	1
 消息	iith	1
 没	im	5
 没有	imde	3
 测试	imya	6
 常用	ipet	2
+常规	ipfw	1
+党政	ipgh	2
+党务	iptl	1
+党委	iptv	2
+常州	ipyt	3
+派	ire	1
+溧	iss	1
 省	ith	2
 海鲜	itqg	1
 省钱	itqg	1
-海	itx	1
+海	itx	3
 洋	iu	2
 当时	ivjf	1
 济南	iyfm	5
 注	iyg	1
 流量	iyjg	1
+流程	iytk	10
 注释	iyto	1
-是	j	6
-最好	jbvb	1
+是	j	12
+最近	jbrp	1
+最好	jbvb	2
+明细	jexl	1
 里	jfd	3
+里面	jfdm	1
+是否	jggi	1
 是不是	jgjg	1
+申购	jhmq	2
+申请	jhyg	7
+日	jjjj	1
 临时	jtjf	1
 监管	jttp	1
+归档	jvsi	5
 中	k	3
 啊	kb	3
-吧	kc	1
+吧	kc	4
 吗	kcg	1
 只不过	kgfp	1
 中国	khlg	2
+中心	khny	1
 中文	khyy	2
-吃	ktn	2
+啦	kru	1
+吃	ktn	3
 哪些	kvhx	1
 哪里	kvjf	1
 哪个	kvwh	1
 只	kw	1
 哈哈	kwkw	2
-因为	ldyl	1
+固定	ldpg	7
+因私	ldtc	1
+因为	ldyl	2
+转	lfn	1
 默认	lfyw	1
 国土	lgff	2
+国产	lgut	1
 四	lh	3
+加	lk	1
 加载	lkfa	1
 加班	lkgy	1
 男	ll	1
 田间	lluj	1
 连接	lpru	2
+罗	lq	1
 软件	lqwr	1
-办	lw	1
-输入	lwty	1
-轮廓	lwyy	2
+输入法	ltif	2
+办	lw	3
+输入	lwty	2
+办文	lwyy	1
+轮廓	lwyy	3
 山东省	mait	2
+邮件	mbwr	1
+周	mfk	1
+同步	mghi	1
 帐号	mhkg	1
 山东	mmai	4
+删	mmgj	2
 山	mmmm	1
 网页	mqdm	1
+刚才	mqft	1
 网	mqq	1
+网站	mquh	1
 网络	mqxt	1
-内	mw	1
+内	mw	5
 内容	mwpw	2
+内部	mwuk	1
 肉	mww	4
 内传	mwwf	1
+民	n	1
 敢	nb	1
-收	nh	1
-已	nnnn	1
+收	nh	3
+局	nnk	3
+局内	nnmw	1
+已	nnnn	3
 快乐	nnqi	5
 已经	nnxc	1
 怕	nr	1
-改	nty	4
+改	nty	6
+买	nudu	1
 尼	nx	1
+忙	nynn	2
+以为	nyyl	1
 为	o	2
+类	od	1
+类别	odkl	2
+业务	ogtl	3
 数据库	oryl	1
-这	p	7
+数据	ovrn	1
+这	p	11
 字	pb	2
 字段	pbwd	1
 字体	pbws	2
 字词	pbyn	1
 家里	pejf	1
+农村	pesf	1
 完整	pfgk	1
+完	pfq	1
 完全	pfwg	1
+室	pgc	2
 写	pgn	1
+定制	pgrm	1
+审批	pjrx	11
+之后	pprg	1
+审批流程	prit	1
+宁	ps	1
+实际	pubf	1
 初三	pudg	1
 袥	pudg	9
 实现	pugm	1
 补	puh	1
 被	puhc	1
 初步	puhi	1
-实时	pujf	1
+实时	pujf	2
 被罩	pulh	3
 补丁	pusg	1
 初	puv	14
 安装	pvuf	2
+突出	pwbm	1
 它	px	1
 神	pyjh	1
-我	q	16
-钱	qg	1
+我	q	21
+勾选	qctf	1
+钱	qg	3
+印	qgb	2
+外出	qhbm	1
 乐器	qikk	4
 名	qk	1
-链接	qlru	1
-饭	qnr	1
-多	qq	1
+钟楼	qkso	1
+链接	qlru	3
+饭	qnr	2
+包括	qnrt	1
+多	qq	2
 钩子	qqbb	1
 多少	qqit	1
+金	qqqq	1
 多年	qqrh	1
+多个	qqwh	1
 多谢	qqyt	1
-的	r	26
+的	r	46
 找	ra	2
 找到	ragc	1
-报告	rbtf	1
+报表	rbge	1
+报告	rbtf	2
+报送	rbud	5
 把	rcn	1
 反查	rcsj	1
 摊	rcwy	1
 排	rdj	1
-后	rg	1
+排名	rdqk	1
+后	rg	2
 后面	rgdm	1
+看	rhf	1
 掉	rhj	2
 牛	rhk	5
 吿	rhkf	1
 指战员	rhkm	2
 牛肉	rhmw	3
 看看	rhrh	1
-提	rj	1
+年度	rhya	4
+年底	rhyq	1
+提	rj	2
 抩	rmfg	8
 所	rn	1
+所有	rnde	3
+所需	rnfd	1
 所以	rnny	1
+拟	rny	1
+近	rp	1
+按	rpv	6
 打	rs	4
 打开	rsga	1
 打死	rsgq	1
 打包	rsqn	1
+手	rt	1
+撬开	rtga	1
+插件	rtwr	1
 拼音	ruuj	3
 搜	rvh	1
 批	rx	1
+批示	rxfi	1
+指示	rxfi	1
 指派	rxir	1
-要	s	2
+要	s	5
+模块	safn	1
+可有可无	sdsf	1
 极点	sehk	1
 极少	seit	1
 村	sf	1
 标题	sfjg	2
 配置	sglf	1
+配	sgn	1
+相	sh	1
+相关	shud	1
+查	sj	1
+查询	sjyq	5
 可能	skce	1
 可怕	sknr	1
-可以	skny	2
-哥	sks	1
+可以	skny	3
+哥	sks	3
 覆盖	stug	1
+检查	swsj	1
+楷体	sxws	1
+和	t	5
 长流	taiy	1
+季度	tbya	1
 乱码	tddc	1
 行	tf	6
+选取	tfbc	1
+靠	tfkd	1
 造	tfkp	3
+先	tfq	1
 造词	tfyn	2
-生成	tgdn	1
+生成	tgdn	3
 生活	tgit	3
-重新	tgus	3
+重装	tguf	2
+重新	tgus	4
 算	tha	1
-自	thd	3
+自	thd	4
 处理	thgj	2
-版本	thsg	1
+算法	thif	1
+自己	thnn	1
+自然	thqd	1
+版本	thsg	2
 怎么	thtc	2
 得	tj	1
-程序	tkyc	1
+程序	tkyc	2
+向	tm	3
 管	tp	1
-管理	tpgj	1
+管理	tpgj	18
 自定义	tpyq	1
+稳定	tqpg	1
+特别	trkl	1
 御前	true	2
 特意	truj	1
 我们	trwu	14
+条件	tswr	1
+很快	tvnn	1
 秉公执法	twri	1
 第一	txgg	1
-系统	txxy	1
-并	ua	1
+系统	txxy	5
+稿件	tywr	7
+并	ua	2
+卷	udbb	4
 差点	udhk	1
+卷内	udmw	1
+羊肉	udmw	1
+羞	udn	1
 前面	uedm	1
 音	ujf	1
 童	ujff	1
 单	ujfj	7
 章	ujj	1
 意思	ujln	1
+意见	ujmq	1
+问题	ukjg	6
+部署	uklf	1
+总	ukn	1
+部门	ukuy	1
 疯狂	umqt	1
+奖励	uqdd	1
 将	uqf	1
-亲	us	1
-新	usr	1
+资源	uqid	1
+效果	uqjs	1
+资产	uqut	8
+亲	us	2
+新	usr	7
+亲北	usux	2
+首页	utdm	1
+颜色	utqc	1
 首先	uttf	1
-发	v	4
-好	vb	3
+北	ux	5
+发	v	12
+好	vb	6
+好处	vbth	1
 好像	vbwq	1
+退出	vebm	2
 那	vfb	1
 妹子	vfbb	1
+那个	vfwh	1
 建议	vfyy	1
-如果	vkjs	1
+录用	viet	3
+录入	vity	1
+如果	vkjs	2
+鼠标	vnsf	1
 群	vtk	1
-人	w	4
+人	w	5
 他	wb	1
+创意	wbuj	1
 创建	wbvf	3
-估计	wdyf	1
+公文	wcyy	9
+做	wdt	3
+估计	wdyf	2
 会	wf	3
 值	wfhg	1
 什么	wftc	3
+会议	wfyy	2
+登陆	wgbf	1
 全部	wguk	4
-登录	wgvi	1
-个	wh	6
+登录	wgvi	2
+个	wh	7
 修改	whnt	1
+个人	whww	1
 修文	whyy	1
-但是	wjjg	1
-你	wq	3
+但是	wjjg	2
+你	wq	6
 您	wqin	1
+你们	wqwu	1
+件	wrh	1
 作	wt	1
 傻逼	wtgk	1
 位	wug	1
 假道学	wuip	1
+分	wv	1
+分局	wvnn	6
+分配	wvsg	1
 分析	wvsr	1
 健全	wvwg	2
-线	xg	1
+人民	wwna	1
+化	wx	1
+货	wxm	1
+领	wycm	1
+领用	wyet	2
+领导	wynf	1
+人迹罕至	wypg	1
+信息	wyth	6
+信访	wyyy	8
+经	xc	1
+经费	xcxj	1
+组合	xewg	1
+线	xg	2
 纯	xgb	1
 纪	xn	1
-给	xw	4
+综合	xpwg	1
+给	xw	6
+比较	xxlu	1
 比如	xxvk	1
-统计	xyyf	1
+编辑	xylk	1
+编译	xyyc	1
+统计	xyyf	8
 主	y	1
+席	yam	1
+试问	yauk	1
 离线	ybxg	1
 计	yf	1
-请	yge	2
-就	yi	2
+讨论	yfyw	1
+请	yge	4
+请求	ygfi	1
+请假	ygwn	2
+就	yi	5
 应用	yiet	1
 应该	yiyy	2
-高	ym	1
+库存	yldh	1
+高	ym	4
 设	ymc	1
 调用	ymet	1
 调	ymf	1
 调频	ymhi	1
-市	ymhj	3
-设置	ymlf	1
+市	ymhj	7
+设置	ymlf	2
+市局	ymnn	5
+设局	ymnn	3
 高新	ymus	3
 忘了	ynbn	1
 词	yngk	5
+扁	ynma	1
+词典	ynma	1
 房客	ynpt	1
 记得	yntj	2
-记录	ynvi	1
+记录	ynvi	3
+话	ytd	1
 谢谢	ytyt	1
-说	yu	2
+说	yu	3
 说明	yuje	1
+详情	yung	1
+文件夹	ywgu	2
 谁	ywyg	2
 方	yy	1
 广场	yyfn	4
-文	yygy	1
+文	yygy	13
 方法	yyif	2
 该	yynw	4
 访客	yypt	1
-方案	yypv	5
-文件	yywr	2
+方案	yypv	9
+文档	yysi	2
+文件	yywr	3
+区政府的	encagyr	0
+区政府	encagyw	0
+草拟局内	encarnm	0
+划拨公文	encarwy	0
+基本信息	encaswt	0
+出常州	encbiyt	0
+出常州市	encbiyy	0
+对区政府	enccagy	0
+又在	encccd	0
+又在	encccdh	0
+又在	enccd	0
+又在	enccdh	0
+又在说这	enccdyp	0
+又在说	enccdyu	0
+又在说这	enccdyy	0
+对区	enccfaq	0
 又吃不下软件饭	encckgq	1
+对固定	encclpg	0
+预算按	encctrp	0
 太有钱	encddqg	1
 万达广场	encddyf	1
 太有钱	encdeqg	1
+压的	encdfr	0
+压的	encdfrq	0
+在说	encdhyu	0
 耐克	encdmdq	1
+有钱人	encdqw	0
+有钱人	encdqww	0
+有钱人就	encdqwy	0
+压的比较	encdrxl	0
+耗材申请	encdsjy	0
+耗材管理	encdstg	0
+耗材录入	encdsvt	0
+耗材领用	encdswe	0
+耗材领	encdswy	0
+压缩一下	encdxgg	0
+在说这	encdyp	0
+在说这个	encdypw	0
+在说	encdyu	0
+在说这	encdyyp	0
+在说这个	encdyyw	0
+及落实	enceapu	1
+盈亏记录	encefyv	0
+采购进行	encemft	0
+用印管理	enceqtg	0
+有钱人	enceqw	0
+有钱人	enceqww	0
+有钱人就	enceqwy	0
+用印	encetqg	0
+用问题	enceujg	0
 用户词	enceyyn	1
+喜欢买	encfcnu	0
+土地自用	encffte	0
+土地自	encffth	0
+示业务	encfotl	0
+示业务类	encfoto	0
+进行年度	encftry	0
+正式公文	encgawy	0
+形成正式	encgdga	0
+一下再	encgggm	0
+一下再发	encgggn	0
+一下再发	encgggv	0
 下屯村	encggsf	1
+表来信	encggwy	0
+再发	encgmnt	0
+再发	encgmv	0
+否多个	encgqwh	0
 五笔的	encgtr	1
 五笔的	encgtrq	1
+下午重装	encgttu	0
 五笔计纪的	encgtyr	1
+来信来访	encgwgy	0
+来信报告	encgwrt	0
+政府的	encgyr	0
+政府的	encgyrq	0
+来访统计	encgyxy	0
+上报信息	enchrwt	0
+目录党政	enchvig	0
+目录生成	enchvtd	0
+常规公文	encifwy	0
 济南高新万达广场	encifyf	1
 济南市	encifym	1
+党政办文	encigly	0
+党政轮廓	encigly	0
+小的	encihr	0
+小的	encihrq	0
+党务申请	encitjy	0
+流程因私	encitlt	0
+流程内部	encitmu	0
+党委发	encitnt	0
+党委发文	encitny	0
+流程外出	encitqb	0
+流程向	encittm	0
+党委发	encitv	0
+党委发文	encitvy	0
+流程信访	encitwy	0
+常州市	enciyym	0
+是的	encjgr	0
+是的	encjgrq	0
+申购审批	encjmpr	0
+申购资产	encjmuu	0
+是的	encjr	0
+是的	encjrq	0
+明细类别	encjxok	0
+申请出	encjybm	0
+申请审批	encjypr	0
+申请会议	encjywy	0
+申请记录	encjyyv	0
+转办	enclflw	0
+转办人民	encllwn	0
+固定审批	enclppr	0
+固定资产	enclpuu	0
+因私出境	encltbf	0
+办人民	enclwn	0
+办人民	enclwna	0
+办文	enclwyy	0
+办文来访	enclygy	0
+办文发	enclynt	0
+办文发文	enclyny	0
 办文单	enclyuj	0
+办文发	enclyv	0
+办文发文	enclyvy	0
 山东省济南市高新区	encmaia	1
 山东省	encmait	1
+内目录	encmhvi	0
+内党委发	encmitn	0
+内党委	encmitv	0
+内党委发	encmitv	0
+内部请求	encmuyf	0
+买耳机	encnbsm	0
+局内常规	encnmif	0
+局内党委	encnmit	0
+局内	encnnmw	0
 快乐的	encnqr	1
 快乐的	encnqrq	1
+发文	encntyy	0
+发文党委	encnyit	0
+发文固定	encnylp	0
+局市局	encnynn	0
+发文羊肉	encnyum	0
+发文公文	encnywy	0
+类申请	encojyg	0
+类别管理	encoktg	0
+业务类	encotod	0
+业务相关	encotsu	0
+突出问题	encpbuj	0
+室申请	encpjyg	0
+审批流程	encprit	0
+审批信访	encprwy	0
+农村土地	encpsff	0
 初三	encpudg	1
+这个	encpwh	0
+这个啦	encpwkr	0
+外出申请	encqbjy	0
+我靠	encqtf	0
+印管理	encqtgj	0
+多条件	encqtwr	0
 我们的	encqwr	1
+多个指示	encqwrf	0
 我们的	encqwrq	1
+的基本	encrasg	0
+批示业务	encrfot	0
+的增	encrfu	0
+报表汇总	encrgiu	0
+的党政	encrigh	0
+的增	encrqfu	0
+按年度	encrrya	0
+按年度对	encrryc	0
+报告表	encrtge	0
+提意见	encrumq	0
+报送分局	encruwn	0
+的比较小	encrxli	0
+的比较	encrxlu	0
+年度对	encrycf	0
+年度好处	encryvt	0
+可以压	encscdf	0
+可以压的	encscdr	0
+可以压	encsndf	0
+可以压的	encsndr	0
+相关问题	encsuuj	0
+楷体好	encswvb	0
+查询多	encsyqq	0
+查询信访	encsywy	0
+生成发	enctdnt	0
+生成发文	enctdny	0
+生成发	enctdv	0
+生成发文	enctdvy	0
+自用问题	encteuj	0
+管理对区	enctgca	0
+管理对	enctgcf	0
+管理耗材	enctgds	0
+管理用钱	enctgeq	0
+管理固定	enctglp	0
+管理审批	enctgpr	0
+管理的	enctgr	0
+管理的	enctgrq	0
+管理系统	enctgtx	0
+管理资产	enctguu	0
+管理信访	enctgwy	0
+自用	encthet	0
+我靠	enctrtf	0
 重新加载什么意思	enctull	1
+重装系统	enctutx	0
 我们的	enctwr	1
 我们的	enctwrq	1
+条件组合	enctwxw	0
+系统功能	enctxac	0
+向市局	enctynn	0
+向设局	enctynn	0
+卷内	encudmw	0
+并形成	encugdn	0
+问题汇总	encujiu	0
+卷内目录	encumhv	0
+亲北	encusux	1
+资产预算	encuuct	0
+资产采购	encuuem	0
+资产申购	encuujm	0
+资产管理	encuutg	0
+资产信息	encuuwt	0
+录入统计	encvtxy	0
+发文党委	encvyit	0
+发文固定	encvylp	0
+发文羊肉	encvyum	0
+发文公文	encvywy	0
+发文	encvyy	0
+领用明细	encwejx	0
+领用编译	encwexy	0
+个啦	encwhkr	0
+人民来信	encwngw	0
+分局向	encwntm	0
+领导向	encwntm	0
+分局领导	encwnwn	0
+件报表	encwrge	0
+信息对	encwtcf	0
+信息的	encwtr	0
+信息的增	encwtrf	0
+信息的	encwtrq	0
+信息报送	encwtru	0
+人就	encwwyi	0
+公文划拨	encwyar	0
+领用	encwyet	0
+人就喜欢	encwyfc	0
+人就	encwyi	0
+公文发	encwynt	0
+公文发文	encwyny	0
+会议室	encwypg	0
+信访审批	encwypr	0
+信访查询	encwysy	0
+信访管理	encwytg	0
+公文管理	encwytg	0
+信访问题	encwyuj	0
+公文发	encwyv	0
+公文发文	encwyvy	0
+信访件	encwywr	0
+比较小	encxlih	0
+比较小的	encxlir	0
+组合查询	encxwsy	0
+综合管理	encxwtg	0
+经费申请	encxxjy	0
+库存管理	encydtg	0
 应用场景	encyefj	0
+就喜欢买	encyfcn	0
+就喜欢	encyfcq	0
+文党委发	encyitn	0
+文党委	encyitv	0
+文党委发	encyitv	0
 主测试	encyiya	1
+文固定	encylpg	0
+市局	encymnn	0
+市局上报	encynhr	0
+市局市局	encynyn	0
+市局请假	encynyw	0
+文发文	encynyy	0
+市审批	encyprx	0
+说这个	encypwh	0
+这个	encypwh	0
+说这个啦	encypwk	0
+文提意见	encyrum	0
+文羊肉	encyumw	0
+说这	encyup	0
+说这	encyuyp	0
+记录查询	encyvsy	0
+文发文	encyvyy	0
+这个啦	encywkr	0
+请假审批	encywpr	0
+请假分局	encywwn	0
+文公文	encywyy	0
+文发	encyynt	0
+文提	encyyrj	0
+文发	encyyv	0
+说这个	encyywh	0
+说这个啦	encyywk	0

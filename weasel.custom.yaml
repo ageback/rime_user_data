@@ -43,5 +43,7 @@ patch:
   "style/font_point": 18
   totalcmd.exe:
     ascii_mode: true
-  totalcmd64.EXE:
+  totalcmd64.exe:
+    ascii_mode: true
+  devenv.exe:
     ascii_mode: true

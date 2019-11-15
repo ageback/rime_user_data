@@ -2,14 +2,14 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1573527091
+    default.custom: 1573689733
     emoji_suggestion: 1573194038
     emoji_suggestion.custom: 0
     key_bindings: 1561218646
     key_bindings.custom: 0
     punctuation: 1561218646
     punctuation.custom: 0
-    wubi86_jidian.custom: 1573527725
+    wubi86_jidian.custom: 1573635099
     wubi86_jidian.schema: 1573181448
 emoji_suggestion:
   opencc_config: emoji.json
@@ -152,7 +152,7 @@ speller:
   max_code_length: 4
 switches:
   - name: ascii_mode
-    reset: 1
+    reset: 0
     states: ["中文", "西文"]
   - name: full_shape
     states: ["半角", "全角"]

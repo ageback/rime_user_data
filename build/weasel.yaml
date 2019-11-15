@@ -2,13 +2,15 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     weasel: 1561218314
-    weasel.custom: 1573632548
+    weasel.custom: 1573635363
 app_options:
   cmd.exe:
     ascii_mode: true
   conhost.exe:
     ascii_mode: true
 config_version: 0.22
+devenv.exe:
+  ascii_mode: true
 preset_color_schemes:
   android:
     author: "Patricivs <ipatrickmac@me.com>"
@@ -524,5 +526,5 @@ style:
   preedit_type: composition
 totalcmd.exe:
   ascii_mode: true
-totalcmd64.EXE:
+totalcmd64.exe:
   ascii_mode: true
